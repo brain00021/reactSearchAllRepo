@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
 // 安裝所有的檔案
 import './assets/css/bootstrap.min.css';
 import './assets/css/all.css';
