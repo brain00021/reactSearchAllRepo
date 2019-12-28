@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactSearchAllRepo.git/static/css/main.fcf8a4ff.chunk.css",
+    "main.js": "/reactSearchAllRepo.git/static/js/main.7da3e9dd.chunk.js",
+    "main.js.map": "/reactSearchAllRepo.git/static/js/main.7da3e9dd.chunk.js.map",
+    "runtime-main.js": "/reactSearchAllRepo.git/static/js/runtime-main.fba3818d.js",
+    "runtime-main.js.map": "/reactSearchAllRepo.git/static/js/runtime-main.fba3818d.js.map",
+    "static/js/2.89049563.chunk.js": "/reactSearchAllRepo.git/static/js/2.89049563.chunk.js",
+    "static/js/2.89049563.chunk.js.map": "/reactSearchAllRepo.git/static/js/2.89049563.chunk.js.map",
+    "index.html": "/reactSearchAllRepo.git/index.html",
+    "precache-manifest.46afea2d9ed08781a0a8730fe452e706.js": "/reactSearchAllRepo.git/precache-manifest.46afea2d9ed08781a0a8730fe452e706.js",
+    "service-worker.js": "/reactSearchAllRepo.git/service-worker.js",
+    "static/css/main.fcf8a4ff.chunk.css.map": "/reactSearchAllRepo.git/static/css/main.fcf8a4ff.chunk.css.map",
+    "static/js/2.89049563.chunk.js.LICENSE": "/reactSearchAllRepo.git/static/js/2.89049563.chunk.js.LICENSE",
+    "static/media/GitHubLoad.png": "/reactSearchAllRepo.git/static/media/GitHubLoad.96973432.png",
+    "static/media/all.css": "/reactSearchAllRepo.git/static/media/newbg.e12bacaa.jpg",
+    "static/media/pzAslBq.png": "/reactSearchAllRepo.git/static/media/pzAslBq.6c0363cb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fba3818d.js",
+    "static/js/2.89049563.chunk.js",
+    "static/css/main.fcf8a4ff.chunk.css",
+    "static/js/main.7da3e9dd.chunk.js"
+  ]
+}
